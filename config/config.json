@@ -1,0 +1,5 @@
+{
+  "llm_base_url": "https://genailab.tcs.in",
+  "llm_model": "azure_ai/genailab-maas-DeepSeek-V3-0324",
+  "llm_api_key": "sk-h4SzTox0qOneSAXq191PXA"
+}

@@ -1,0 +1,6 @@
+langchain
+openai
+httpx
+torch        # For your vulnerable AI model
+transformers # For your vulnerable AI model
+pandas       # To store prompts and results
